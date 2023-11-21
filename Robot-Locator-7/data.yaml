@@ -1,0 +1,12 @@
+names:
+  - FRC-Robots
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: robot-locator
+  url: https://universe.roboflow.com/school-tzde2/robot-locator/dataset/7
+  version: 7
+  workspace: school-tzde2
+test: ./test/images
+train: ./train/images
+val: ./valid/images
